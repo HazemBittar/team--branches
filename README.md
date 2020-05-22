@@ -2,7 +2,7 @@
 we are team of group2 class 10 for learn scoding!
 
 ## coatch:
-* [Tiago](Taigo.md)
+* [Tiago](Taigo1.md)
 
 ### team-members:
 - [Ogla](Ogla.md)
